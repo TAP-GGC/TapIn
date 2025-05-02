@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Tap In logo" src="media/removebackground.png" height="200" />
+  <img alt="Tap In logo" src="media/removebackground2.PNG" height="200" />
   <h1 align="center">TapIn: Build a Digital Business Card!
 </h1>
   <p align="center"> Teaching Static Web Development with NFC Technology</p>
