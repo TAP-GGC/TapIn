@@ -51,4 +51,5 @@ NFC (Near Field Communication) chips are small integrated circuits that enable s
 ## Short demo instructions
 [Demo instruction video](https://youtu.be/3BmcVpolXJA)
 ## Workshop instructions
+[Workshop instruction video](https://youtu.be/LPqFlLWCIDY)
 
