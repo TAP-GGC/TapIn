@@ -36,6 +36,7 @@ This project involves students creating digital business cards containing inform
 4. Title One Workshops (April 23) - Walk middle school students through our workshop to give them hands-on experience.
 5. Super Saturday Series (April 30) - Host a day of fun at GGC for middle school students.
 ## 🔎 Similar Projects
+* [MACK](https://github.com/TAP-GGC/MACK)
 ## 🤖 Technology
 This project uses HTML, CSS,JavaScript, NFC Chips, and QR Codes
 1. ### HTML, CSS, JavaScript
